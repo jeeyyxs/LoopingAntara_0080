@@ -17,4 +17,8 @@ int main() {
         x = 1 + rand() % 10; // Pengubah dari nilai x
     }
 
-    
+    cout << "Bilangan acak while yang terakhir = " << x << endl; // Menampilkan nilai terakhir dari x
+    cout << endl;
+
+    return 0;
+}
